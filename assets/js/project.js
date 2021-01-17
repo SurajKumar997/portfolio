@@ -7,7 +7,7 @@ const projects = [
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "",
     tag: "PPT",
-    Previewlink: "https://drive.google.com/file/d/15F75QMVq4xLVkpNI7_fViSdLTt_sUxPd/view?usp=sharing",
+    Previewlink: "https://docs.google.com/presentation/d/15F75QMVq4xLVkpNI7_fViSdLTt_sUxPd/edit#slide=id.p1",
     Githublink: "",
   },
   {
@@ -15,7 +15,7 @@ const projects = [
     cardImage: "assets/images/project-page/chess.jpg",
     description: "",
     tag: "PPT",
-    Previewlink: "https://drive.google.com/file/d/1keVtqZwCBaGTFtcqCRhPWFChEwi5U-_0/view?usp=sharing",
+    Previewlink: "https://docs.google.com/presentation/d/1keVtqZwCBaGTFtcqCRhPWFChEwi5U-_0/edit#slide=id.p1",
     Githublink: "",
   },
   {

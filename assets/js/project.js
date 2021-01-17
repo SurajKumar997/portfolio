@@ -3,7 +3,7 @@
 const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
-    title: "Conservation Of Fossil Fuels",
+    title: "SCIENCE AIL PROJECT",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "",
     tag: "PPT",
@@ -11,7 +11,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "AIL Say No To Plastics Social Studies",
+    title: "SOCIAL STUDIES AIL PROJECT",
     cardImage: "assets/images/project-page/chess.jpg",
     description: "",
     tag: "PPT",

@@ -15,7 +15,7 @@ const projects = [
     cardImage: "assets/images/project-page/chess.jpg",
     description: "",
     tag: "PPT",
-    Previewlink: "https://ww.google.com/",
+    Previewlink: "https://drive.google.com/file/d/1keVtqZwCBaGTFtcqCRhPWFChEwi5U-_0/view?usp=sharing",
     Githublink: "",
   },
   {

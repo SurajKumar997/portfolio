@@ -19,7 +19,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "MATHS AIL",
+    title: "MATHS AIL PROJECT",
     cardImage: "assets/images/project-page/flappybird.png",
     description: "",
     tag: "PPT",

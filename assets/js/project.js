@@ -7,7 +7,7 @@ const projects = [
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "A quiz app built using basic react.",
     tag: "PPT",
-    Previewlink: "https://online.fliphtml5.com/zawwz/wzlc/#p=1",
+    Previewlink: "https://drive.google.com/file/d/15F75QMVq4xLVkpNI7_fViSdLTt_sUxPd/view?usp=sharing",
     Githublink: "",
   },
   {

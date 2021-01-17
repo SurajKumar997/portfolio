@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Conservation Of Fossil Fuels",
     cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    description: "",
     tag: "PPT",
     Previewlink: "https://drive.google.com/file/d/15F75QMVq4xLVkpNI7_fViSdLTt_sUxPd/view?usp=sharing",
     Githublink: "",

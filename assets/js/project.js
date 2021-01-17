@@ -21,9 +21,9 @@ const projects = [
   {
     title: "Flappy Bird",
     cardImage: "assets/images/project-page/flappybird.png",
-    description: "Flappy bird game built using React.js",
+    description: "",
     tag: "React.js",
-    Previewlink: "",
+    Previewlink: "https://docs.google.com/presentation/d/1kLJJwxPR5rToya2BfTEtPHepoXEz2sGT/edit#slide=id.p1",
     Githublink: "",
   },
   {

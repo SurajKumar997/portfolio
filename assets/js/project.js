@@ -22,7 +22,7 @@ const projects = [
     title: "Flappy Bird",
     cardImage: "assets/images/project-page/flappybird.png",
     description: "",
-    tag: "React.js",
+    tag: "PPT",
     Previewlink: "https://docs.google.com/presentation/d/1kLJJwxPR5rToya2BfTEtPHepoXEz2sGT/edit#slide=id.p1",
     Githublink: "",
   },

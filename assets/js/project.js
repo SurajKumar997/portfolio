@@ -14,8 +14,8 @@ const projects = [
     title: "SOCIAL STUDIES AIL PROJECT",
     cardImage: "assets/images/project-page/chess.jpg",
     description: "",
-    tag: "PPT",
-    Previewlink: "https://docs.google.com/presentation/d/1keVtqZwCBaGTFtcqCRhPWFChEwi5U-_0/edit#slide=id.p1",
+    tag: "PDF",
+    Previewlink: "https://online.fliphtml5.com/zawwz/ukgh/#p=1",
     Githublink: "",
   },
   {

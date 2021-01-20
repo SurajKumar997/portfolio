@@ -14,7 +14,7 @@ const projects = [
     title: "SOCIAL STUDIES AIL PROJECT",
     cardImage: "assets/images/project-page/chess.jpg",
     description: "",
-    tag: "PDF",
+    tag: "PDF FLIPBOOK",
     Previewlink: "https://online.fliphtml5.com/zawwz/ukgh/#p=1",
     Githublink: "",
   },

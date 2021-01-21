@@ -31,7 +31,7 @@ const projects = [
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Exercise tracker built using basic redux.",
     tag: "Game",
-    Previewlink: "",
+    Previewlink: "https://www.catchkobie.cf",
     Githublink: "",
   },
   {

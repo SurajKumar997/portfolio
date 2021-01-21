@@ -27,10 +27,10 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Coming Soon",
+    title: "Catch Kobie	",
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Exercise tracker built using basic redux.",
-    tag: "Coming Soon",
+    tag: "Game",
     Previewlink: "",
     Githublink: "",
   },

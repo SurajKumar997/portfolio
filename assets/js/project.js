@@ -27,7 +27,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Catch Kobie	",
+    title: "Catch Kobie",
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Exercise tracker built using basic redux.",
     tag: "Game",

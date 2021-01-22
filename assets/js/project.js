@@ -15,7 +15,7 @@ const projects = [
     cardImage: "assets/images/project-page/chess.jpg",
     description: "",
     tag: "PDF FLIPBOOK",
-    Previewlink: "https://online.fliphtml5.com/zawwz/hwfe/",
+    Previewlink: "https://online.fliphtml5.com/zawwz/mzjm/",
     Githublink: "",
   },
   {

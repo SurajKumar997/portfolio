@@ -4,40 +4,24 @@
 <head>
     <title>Suraj | Home</title>
     <meta charset="UTF-8">
-    <meta name="purpleads-verification" content="da935743ff1599bc7d5dc0b6">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords"
         content="free portfolio template,portfolio template, portfolio website template, open source, open sourcing, contributing to open source" />
     <meta name="description"
-        content="I am a highly motivated, passionate hard-core web
-                    developer with diverse experience in developing web applications, hybrid mobile apps, and cloud
-                    computing solutions ranging from working on cute layouts." />
+        content="This project serves free and beautiful portfolio template for everyone. Anyone can showcase their work including moocs, education, projects, experience,etc. to the world." />
     <!-- Robot.txt -->
     <meta name="robots" content="index,follow" />
     <meta name="Googlebot" content="index,follow" />
     <meta name="AdsBot-Google" content="index,follow" />
     <meta property="og:title" content="Suraj | Home">
     <meta property="og:description"
-        content="I am a highly motivated, passionate hard-core web
-                    developer with diverse experience in developing web applications, hybrid mobile apps, and cloud
-                    computing solutions ranging from working on cute layouts.">
+        content="This project serves free and beautiful portfolio template for everyone. Anyone can showcase their work including moocs, education, projects, experience,etc. to the world.">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary">
     <meta name="application-name" content="Suraj | Home" />
     <meta name="apple-mobile-web-app-title" content="Suraj | Home" />
     <meta name="summary"
-        content="I am a highly motivated, passionate hard-core web
-                    developer with diverse experience in developing web applications, hybrid mobile apps, and cloud
-                    computing solutions ranging from working on cute layouts." />
-                    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-<script>
-  window.OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "8a2c244b-1cb2-4057-acb6-a261abae0120",
-    });
-  });
-</script>
+        content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world." />
     <!--For Dark/Light mode Toggle-->
     <script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>
     <!--Import Google Icon Font-->
@@ -54,20 +38,33 @@
     <!-- Font awesome icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "8a2c244b-1cb2-4057-acb6-a261abae0120",
+    });
+  });
+</script>
 </head>
 
 <body>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-ef+6k-30-ac+ty"
-     data-ad-client="ca-pub-7714825608101122"
-     data-ad-slot="7844219863"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<script> 
+            var el_up = document.getElementById("GFG_UP"); 
+            var el_down = document.getElementById("GFG_DOWN"); 
+            el_up.innerHTML = "Click on the button to disable right click"; 
+              
+            function gfg_Run() { 
+                document.addEventListener('contextmenu',  
+                        event => event.preventDefault()); 
+                el_down.innerHTML = "Right click disabled"; 
+            }          
+        </script>  
+
+         <button onclick = "gfg_Run()">  
+            Disable 
+        </button> 
     <!--Dynamic Nav Bar-->
 
     <!--Parallax effect-->
@@ -139,7 +136,8 @@
             <div class="col-md-9 text-center">
                 <p class="mb-5 lead" style="line-height: 1.75rem;">I am a highly motivated, passionate hard-core web
                     developer with diverse experience in developing web applications, hybrid mobile apps, and cloud
-                    computing solutions ranging from working on cute layouts.
+                    computing solutions ranging from working on cute layouts, payment gateways etcetera and the list
+                    goes on till making a clone, better than Facebook.
                 </p>
             </div>
         </div>
@@ -171,6 +169,29 @@
     <script type="text/javascript" src="assets/js/materialize.min.js"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js'></script>
     <script src="assets/js/particle.js"></script>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.2.4/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.2.4/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyAlyX2QAWp_1IK08QLz4NCPB3Ie3o8DZUE",
+    authDomain: "new-project-90fec.firebaseapp.com",
+    projectId: "new-project-90fec",
+    storageBucket: "new-project-90fec.appspot.com",
+    messagingSenderId: "973581211960",
+    appId: "1:973581211960:web:d990e8be29eeb34f7249cd",
+    measurementId: "G-SBJ3GBX651"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
 
 </body>
 

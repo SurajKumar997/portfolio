@@ -2,7 +2,7 @@
 
 const projectcards = document.querySelector(".projectcards");
 const projects = [
-  {
+    {
     title: "SCIENCE AIL PROJECT",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "",
@@ -37,7 +37,7 @@ const projects = [
   {
     title: "Coming Soon",
     cardImage: "assets/images/project-page/recipe.jpg",
-    description: "Recipe Ingredient Parser built using JavaScript.",
+    description: ".",
     tag: "Coming Soon",
     Previewlink: "",
     Githublink: "",
@@ -45,14 +45,14 @@ const projects = [
   {
     title: "Coming Soon",
     cardImage: "assets/images/project-page/poker.jpg",
-    description: "Poker game built using typescript.",
+    description: "",
     tag: "Coming Soon",
     Previewlink: "",
     Githublink: "",
   },
   {
     title: "Coming Soon",
-    cardImage: "assets/images/project-page/tic-tac-toe.png",
+    cardImage: "",
     description:
       "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
     tag: "Coming Soon",
@@ -62,7 +62,7 @@ const projects = [
   {
     title: "Coming Soon",
     cardImage: "assets/images/project-page/book.png",
-    description: "Personal book library app built using JavaScript.",
+    description: "",
     tag: "Coming Soon",
     Previewlink: "",
     Githublink: "",
@@ -70,8 +70,7 @@ const projects = [
   {
     title: "Coming Soon",
     cardImage: "assets/images/project-page/minesweeper.jpg",
-    description:
-      "Minesweeper Game built using python Object Oriented Programming.",
+    description:"",
     tag: "Coming Soon",
     Previewlink: "",
     Githublink: "",
@@ -79,7 +78,7 @@ const projects = [
   {
     title: "Coming Soon",
     cardImage: "assets/images/project-page/battery.png",
-    description: "Built battery life calculator using Python.",
+    description: "",
     tag: "Coming Soon",
     Previewlink: "",
     Githublink: "",
@@ -87,7 +86,7 @@ const projects = [
   {
     title: "Coming Soon",
     cardImage: "assets/images/project-page/movie-recommendation.jpeg",
-    description: "Built using Tensorflow.",
+    description: "",
     tag: "Coming Soon",
     Previewlink: "",
     Githublink: "",
@@ -95,7 +94,7 @@ const projects = [
   {
     title: "Coming Soon",
     cardImage: "assets/images/project-page/music.jpg",
-    description: "Built using Python.",
+    description: "",
     tag: "Coming Soon",
     Previewlink: "",
     Githublink: "",

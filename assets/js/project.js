@@ -29,7 +29,7 @@ const projects = [
   {
     title: "Catch Kobie",
     cardImage: "assets/images/project-page/exercise.jpg",
-    description: "Exercise tracker built using basic redux.",
+    description: "",
     tag: "Game",
     Previewlink: "https://www.catchkobie.cf",
     Githublink: "",
@@ -52,7 +52,7 @@ const projects = [
   },
   {
     title: "Coming Soon",
-    cardImage: "",
+    cardImage: "assets/images/project-page/tic-tac-toe.png",
     description:
       "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
     tag: "Coming Soon",

@@ -35,10 +35,10 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Coming Soon",
+    title: "Car Race",
     cardImage: "assets/images/project-page/recipe.jpg",
-    description: ".",
-    tag: "Coming Soon",
+    description: "",
+    tag: "Game",
     Previewlink: "",
     Githublink: "",
   },

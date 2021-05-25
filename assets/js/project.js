@@ -27,19 +27,19 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Catch Kobie",
-    cardImage: "assets/images/project-page/exercise.jpg",
-    description: "",
-    tag: "Game",
-    Previewlink: "https://www.catchkobie.cf",
-    Githublink: "",
-  },
-  {
     title: "Car Race",
     cardImage: "assets/images/project-page/recipe.jpg",
     description: "",
     tag: "Game",
     Previewlink: "https://www.carrace.ga",
+    Githublink: "",
+  },
+  {
+    title: "CComing Soon",
+    cardImage: "assets/images/project-page/poker.jpg",
+    description: "",
+    tag: "Game",
+    Previewlink: "#",
     Githublink: "",
   },
   {
